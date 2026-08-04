@@ -218,15 +218,16 @@ ticket never takes down the run.
 
 ```
 support-ticket-triage-agent/
-├── agent.py                    # Main agent: classify + route + flag (CLI, primary entry point)
-├── app.py                      # Optional Streamlit web UI, reuses agent.py's logic
-├── tests/
-│   └── test_agent.py           # Unit tests for classification/routing/fallback logic
-├── data/
-│   └── sample_tickets.json     # 10 sample tickets used for the demo
-├── routing_results.json    # Committed sample run output
-└── routing_results.csv
+├── agent.py                # Main agent: classify + route + flag (CLI, primary entry point)
+├── app.py                  # Optional Streamlit web UI, reuses agent.py's logic
 ├── requirements.txt
 ├── .env.example
-└── README.md
+├── README.md
+├── data/
+│   └── sample_tickets.json     # 10 sample tickets used for the demo
+├── tests/
+│   └── test_agent.py           # Unit tests for classification/routing/fallback logic
+└── output/
+    ├── routing_results.json    # Committed real run output
+    └── routing_results.csv
 ```
