@@ -7,7 +7,7 @@
     "confidence": 0.99,
     "routed_team": "Engineering",
     "needs_human_review": false,
-    "reasoning": "I chose this category and urgency because the site is completely down, blocking all employees from working and affecting a critical deadline, which indicates a severe technical issue requiring immediate attention.",
+    "reasoning": "I chose this category and urgency because the site is completely down, blocking all 40 employees from working and affecting a critical deadline, which indicates a severe technical issue requiring immediate attention.",
     "error": null
   },
   {
@@ -29,7 +29,7 @@
     "confidence": 0.9,
     "routed_team": "Support Team",
     "needs_human_review": false,
-    "reasoning": "I chose this category and urgency because the user is asking a question about the functionality of the product, specifically how to export data to CSV, without indicating any critical or time-sensitive issue.",
+    "reasoning": "I chose this category and urgency because the user is asking a question about the functionality of the product, specifically about exporting data to CSV, without indicating any urgency or critical issue.",
     "error": null
   },
   {
@@ -51,7 +51,7 @@
     "confidence": 0.9,
     "routed_team": "Product Team",
     "needs_human_review": false,
-    "reasoning": "I chose this category because the user explicitly mentions a feature request and frames it as a nice-to-have, indicating no urgency or critical need.",
+    "reasoning": "I chose this category and urgency because the user is explicitly requesting a new feature, dark mode, and frames it as a nice-to-have rather than a critical need.",
     "error": null
   },
   {
@@ -70,10 +70,10 @@
     "subject": "question",
     "category": "General Inquiry",
     "urgency": "Low",
-    "confidence": 0.8,
+    "confidence": 0.9,
     "routed_team": "Support Team",
     "needs_human_review": false,
-    "reasoning": "I chose this category and urgency because the user is asking a question about integration with Zapier, which is a general inquiry with no indication of a critical or urgent issue.",
+    "reasoning": "I chose this category and urgency because the user is asking a general question about integration with Zapier, without indicating any critical issue or deadline.",
     "error": null
   },
   {
@@ -84,7 +84,7 @@
     "confidence": 0.9,
     "routed_team": "Finance/Billing Team",
     "needs_human_review": false,
-    "reasoning": "I chose the Billing category and Critical urgency because the customer needs to update their billing address before the monthly invoice generates tomorrow morning to avoid incorrect records.",
+    "reasoning": "I chose the Billing category and Critical urgency because the user needs to update their billing address before the monthly invoice generates tomorrow morning to avoid incorrect records.",
     "error": null
   },
   {
@@ -95,7 +95,7 @@
     "confidence": 0.9,
     "routed_team": "Customer Success",
     "needs_human_review": false,
-    "reasoning": "I chose this category and urgency because the user is locked out of their account and has a critical deadline within hours, specifically a client demo in 2 hours, and the primary issue is the password reset link expiring instantly.",
+    "reasoning": "I chose this category and urgency because the user is locked out of their account and has a time-sensitive deadline to access the tool, with the primary issue being the expired password reset link.",
     "error": null
   },
   {
@@ -106,7 +106,7 @@
     "confidence": 0.9,
     "routed_team": "Support Team",
     "needs_human_review": false,
-    "reasoning": "I chose this category and urgency because the primary issue is a compliment with a minor request to update an invoice template, which is not time-sensitive or critical.",
+    "reasoning": "I chose this category and urgency because the primary issue is a thank you note with a minor, non-urgent request to update an invoice template.",
     "error": null
   }
 ]
