@@ -1,0 +1,52 @@
+[
+  {
+    "id": "TCK-001",
+    "subject": "Site is completely down for our whole team",
+    "body": "None of our 40 employees can log into the dashboard right now. We get a 500 error on every page. This is blocking our end-of-quarter reporting which is due today. Please help immediately."
+  },
+  {
+    "id": "TCK-002",
+    "subject": "Charged twice for July subscription",
+    "body": "I noticed two identical charges of $49.99 on my card on the 3rd and 4th of July. Can you please refund the duplicate charge? Not urgent, just want it fixed before next billing cycle."
+  },
+  {
+    "id": "TCK-003",
+    "subject": "How do I export my data to CSV?",
+    "body": "I've been looking through the settings menu but can't find an export option. Is this possible with my current plan, and if so, where is it located?"
+  },
+  {
+    "id": "TCK-004",
+    "subject": "Possible security issue - unauthorized login attempts",
+    "body": "I received 6 emails in the last hour saying someone tried to log into my account from an unrecognized device in another country. My password still works so I don't think they got in, but I'm worried. Please advise."
+  },
+  {
+    "id": "TCK-005",
+    "subject": "Feature request: dark mode",
+    "body": "Loving the product so far. Would be great to have a dark mode option for the dashboard, especially for late-night work sessions. Not a big deal, just a nice-to-have."
+  },
+  {
+    "id": "TCK-006",
+    "subject": "App crashes every time I upload a file over 10MB",
+    "body": "Whenever I try to attach a file larger than 10MB to a project, the app freezes for about 30 seconds and then crashes. This happens consistently on Chrome and Firefox, Windows 11. Started after last week's update."
+  },
+  {
+    "id": "TCK-007",
+    "subject": "question",
+    "body": "hey does this work with zapier or not really sure how integrations work here can someone explain"
+  },
+  {
+    "id": "TCK-008",
+    "subject": "Need to update billing address before invoice generates",
+    "body": "Our finance team moved offices and I need to update the billing address on file before our monthly invoice generates tomorrow morning, otherwise the invoice will have the wrong address for our records."
+  },
+  {
+    "id": "TCK-009",
+    "subject": "Can't reset password, reset link expired instantly",
+    "body": "I requested a password reset link 3 times today and every time I click it within seconds it says the link has expired. I'm locked out of my account and have a client demo in 2 hours using this tool."
+  },
+  {
+    "id": "TCK-010",
+    "subject": "Great support last week, one small thing",
+    "body": "Just wanted to say thanks to your support team for resolving my earlier ticket so fast. Also noticed the invoice PDF still shows our old company name - could someone update the template on file when you get a chance?"
+  }
+]
