@@ -224,9 +224,8 @@ support-ticket-triage-agent/
 │   └── test_agent.py           # Unit tests for classification/routing/fallback logic
 ├── data/
 │   └── sample_tickets.json     # 10 sample tickets used for the demo
-├── output/
-│   ├── routing_results.json    # Committed sample run output
-│   └── routing_results.csv
+├── routing_results.json    # Committed sample run output
+└── routing_results.csv
 ├── requirements.txt
 ├── .env.example
 └── README.md
